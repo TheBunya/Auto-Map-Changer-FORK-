@@ -1,0 +1,6 @@
+Source/bin/
+Source/obj/
+release-assets/
+release-assets*/
+*.user
+*.suo
